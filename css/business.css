@@ -1,0 +1,676 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    overflow: hidden;
+    padding: 3em 0em;
+    background: #E3F0F7;
+    text-align: center;
+    /* margin-top: 5em; */
+    margin-left: 5em;
+    margin-right: 5em;
+}
+footer .four,
+footer .five,
+footer .six,
+footer .seven{
+    float: left;
+    width: 290px;
+    text-align: left;
+    height: 100px;
+    
+}
+.two{
+
+    overflow: hidden;
+    /* padding: 5em 0em; */
+    border-top: 20px solid rgba(255, 255, 255, 0.08);
+    /* text-align: left; */
+    background: #4CAF50;
+    margin-left: 5em;
+    margin-right: 5em;
+    /* margin-bottom: 0; */
+    
+    
+}
+.two p{
+    letter-spacing: 1px;
+    font-size: 0.90em;
+    color: black;
+    
+}
+.eight{
+    float: left;
+}
+.nine{
+    float: right;
+}
+.ten{
+    margin-left: 5em;
+    margin-right: 5em;
+    border: 2px solid black;
+}
+.eleven{
+    overflow: hidden;
+    padding: 2em 0em 0em 0em;
+    text-align: center;
+    background: #E3F0F7;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top: 2em;
+    /* margin-bottom: 2em; */
+    height: 70px;
+    /* padding: 0px; */
+}
+.twelve{
+    float: left;
+}
+.thirteen{
+    float: right;
+}
+.fourteen a{
+    text-decoration: none;
+    /* color: rgba(255, 255, 255, 0.8); */
+
+}
+ul.fourteen{
+    margin: 0;
+    /* padding: 2em 0em 0em 0em; */
+    list-style: none;
+}
+ul.fourteen li{
+    display: inline-block;
+    padding: 0em 0.10em;
+    font-size: 1em;
+}
+ul.fourteen li a{
+    /* color: #FFF; */
+    display: inline-block;
+    background: #4C93B9;
+    border-radius: 20px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+.seventeen{
+    overflow: hidden;
+    padding: 3em 0em;
+    background: #E3F0F7;
+    text-align: center;
+    margin-top: 5em;
+    margin-left: 5em;
+    margin-right: 5em;
+    /* border: 1px solid black; */
+    
+}
+.fifteen{
+   float: left;
+   text-align: left;
+   margin-left: 2em;
+}
+
+.sixteen{
+    float: right;
+    margin-right: 2em;
+}
+.fa-solid{
+    display: inline;
+    padding: 50px;
+}
+.eighteen{
+    margin-left: 8em;
+}
+
+.nineteen{
+    width: 300px;
+    height: 50px;
+    border: 1px solid gray;
+}
+.twenty{
+    width: 200px;
+    height: 50px;
+    /* border: 1px solid black; */
+    background-color: white;
+}
+.twenty:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+.twentyfour{
+    overflow: hidden;
+    /* padding: 3em 0em; */
+    background: #E3F0F7;
+    text-align: center;
+    margin-top: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+    /* border: 1px solid black; */
+    width: 730px;
+    
+}
+.twentytwo{
+    float: left;
+    
+}
+ 
+.twentythree{
+    float: right;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.twentyone{
+    height: 280px;
+}
+ 
+
+  
+ .main-div{
+    display: flex;
+    /* border: 1px solid black; */
+ }
+ .sideo{
+    /* display: flex; */
+    /* border: 1px solid black; */
+    /* overflow: hidden; */
+    text-align: center;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+.sidetext{
+    text-align: center;
+}
+.twentyfive{
+    display: flex;
+    /* border: 1px solid black; */
+    /* overflow: hidden; */
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 3em;
+}
+.twentysix{
+    /* border: 1px solid black; */
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    text-align: center;
+}
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+.containerone {
+    position: absolute;
+    bottom: 100px;
+    left: 16px;
+}
+.containertwo {
+    position: absolute;
+    bottom: 70px;
+    left: 16px;
+}
+.containerthree {
+    position: absolute;
+    bottom: 30px;
+    left: 16px;
+}
+.twentyseven{
+    overflow: hidden;
+    /* padding: 3em 0em; */
+    background: #E3F0F7;
+    text-align: center;
+    margin-top: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+    /* border: 1px solid black; */
+    width: 730px;
+    /* display: flex; */
+    
+}
+.twentyeight{
+    float: left;
+}
+.twentynine{
+    float: right;
+    margin-right: 0px;
+    margin-top: 6px;
+    /* display: inline; */
+}
+.fourty{
+    display: flex;
+    /* border: 1px solid black; */
+    align-items: center;
+    background-color: white;
+    overflow: hidden;
+    margin-top: 5em;
+    margin-left: 5em;
+    margin-right: 5em;
+    width: 1200px;
+    /* height: 300px; */
+      
+}
+.fourtytwo{
+    align-items: left;
+    /* padding: 10px; */
+}
+.fourtyseven{
+    margin-left: 400px;
+    background-color: white;
+    color: black;
+    height: 30px;
+    width: 200px;
+    margin-right: 5em;
+}
+.fourtyseven:hover{
+    color: gray;
+    background-color: black;
+}
+.fiftythree{
+    /* border: 1px solid black; */
+    overflow: hidden;
+    /* padding: 3em 0em; */
+    /* background: #E3F0F7; */
+    text-align: center;
+    margin-top: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+    /* width: 1250px; */
+}
+.fifty,
+.fiftyone{
+    height: 300px;
+    width: 589px;
+    /* border: 1px solid black; */
+}
+.fiftytwo{
+    /* border: 1px solid black; */
+    text-align: center;
+    margin-top: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+    height: 50px;
+}
+.fiftyfour{
+    float: left;
+    
+}
+.fiftyfive{
+    float: right;
+}
+.fiftythree {
+    position: relative;
+    text-align: center;
+    color: white;
+  } 
+.fiftysix {
+    position: absolute;
+    bottom: 130px;
+    left: 16px;
+}
+.fiftyseven {
+    position: absolute;
+    bottom: 50px;
+    left: 16px;
+    text-align: left;
+}
+.fiftyeight {
+    position: absolute;
+    bottom: 20px;
+    left: 16px;
+}
+.fiftynine{
+    position: absolute;
+    bottom: 130px;
+    left: 620px;
+}
+.sixty {
+    position: absolute;
+    bottom: 50px;
+    left: 620px;
+    text-align: left;
+}
+.sixtyone {
+    position: absolute;
+    bottom: 20px;
+    left: 620px;
+}
+
+
+
+
+
+.column {
+    float: left;
+    /* width: 33.33%; */
+    /* padding: 5px; */
+  }
+  
+  /* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.rowimage{
+    height: 200px;
+    width: 200px;
+}
+.automobile{
+    /* border: 1px solid black; */
+    
+    overflow: hidden;
+    background: #E3F0F7;
+    text-align: left;
+    width: 520px;
+}
+.rowoneimage{
+    width: 520px;
+}
+.automobiletwo{
+    /* border: 1px solid black; */
+    text-align: center;
+    width: 520px;
+    margin-right: 94px;
+    margin-bottom: 50px;
+    
+}
+.automobilefour{
+    float: left;
+    
+}
+.automobilefive{
+    float: right;
+}
+.main{
+    display: flex;
+    /* border: 1px solid black; */
+    text-align: center;
+    margin-top: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+    width: 1180px;
+    /* height: 50px; */
+ }
+ .line{
+    /* border: 1px solid black; */
+    margin-top: 2em;
+    margin-left: 5em;
+    margin-right: 5em;
+ }
+.politicsimage{
+    height: 400px;
+    width: 385px;
+    padding: 10px;
+   
+}
+.politicsmaindiv{
+    display: flex;
+    margin-left: 5em;
+    
+    /* padding: 10px; */
+}
+.technology{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.technologydiv{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    text-align: left;
+    /* color: white; */
+}
+.technologyimage{
+    height: 400px;
+    width: 600px;
+    padding: 0px;
+}
+.technologymaindiv{
+    display: flex;
+    margin-left: 5em;
+    /* padding: 1px; */
+}
+.stockimage{
+    height: 400px;
+    width: 380px;
+    padding: 10px;
+}
+.stockmaindiv{
+    display: flex;
+    margin-left: 5em;
+    
+}
+.payment{
+    /* border: 1px solid black; */
+    width: 700px;
+    margin-left: 5em;
+    padding: 30px;
+}
+.paymentimage{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+.subscribe{
+    /* border: 1px solid black; */
+    width: 370px;
+    margin-left: 2em;
+    padding: 10px;
+}
+.paymentsubscribe{
+    display: flex;
+}
+.editor{
+    display: flex;
+    margin-left: 80px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.editorone{
+    padding: 10px;
+}
+.imgone{
+    height: 610px;
+    width: 600px;
+}
+.imgtwo{
+    height: 200px;
+    width: 300px;
+}
+.ninetyone{
+    width: 600px;
+    /* border: 1px solid black; */
+    padding: 5px;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.elonone{
+    position: absolute;
+    bottom: 40px;
+    left: 16px;
+    text-align: left;
+}
+.ninety{
+    width: 600px;
+    /* border: 1px solid black; */
+    padding: 5px;
+    margin-bottom: 10px;
+    /* display: flex; */
+}
+.ninetytwo{
+    display: flex;
+    
+}
+.ninetythree{
+    /* border: 1px solid red; */
+    width: 1200px;
+    margin-left: 5em;
+    margin-right: 5em;
+    margin-top: 5em;
+    
+}
+
+.ninetysix{
+    float: left;
+    
+}
+ 
+.ninetyfour{
+    float: right;
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.twentyone{
+    height: 280px;
+}
+p, ol, ul{
+    margin-top: 0;
+}
+ol, ul{
+    padding: 0;
+    list-style: none;
+}
+header{
+     
+    overflow: hidden;
+}
+#top-header{
+         
+    text-align: center;
+    height: 60px;
+    width: 1000px;
+}
+#logo{
+    float: left;
+    padding: none;
+    margin: none;
+    height: 60px;
+    width: 30%;
+}
+ 
+#logo img{
+    width: 60%;
+    float: left;
+    padding: 10px 0px;
+}   
+#menu{
+    /* float: right; */
+    width: 1200px;
+    height: 100%;
+    margin: none;
+}
+     
+#menu ul{
+    text-align: center;
+    /* float: right; */
+    margin: none;
+    background: #0074D9;
+}
+     
+#menu li{
+    /* display: inline-block; */
+    padding: none;
+    margin: none;
+}
+     
+#menu li a, #menu li span{
+    /* display: inline-block; */
+    padding: 0em 1.5em;
+    text-decoration: none;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 60px;
+    color: black;
+}
+     
+#menu li a{
+         
+    color: black;
+}
+     
+#menu li:hover a, #menu li span{
+    background: #FFF;
+    color: #0074D9;
+    /* border-left: 1px solid #0074D9; */
+    text-decoration: none;
+}
+header{
+     
+    overflow: hidden;
+}
+ 
+#top-header{
+         
+    text-align: center;
+    height: 100px;
+}
+ 
+/****************/   
+/* Styling Logo */
+/****************/
+#logo{
+    float: left;
+    padding: none;
+    margin: none;
+    height: 60px;
+    width: 30%;
+}
+ 
+#logo img{
+    width: 60%;
+    float: left;
+    padding: 10px 0px;
+}   
+#menu{
+    /* float: right; */
+    width: 1275px;
+    height: 100%;
+    margin: none;
+}
+     
+#menu ul{
+    text-align: center;
+    /* float: right; */
+    margin: none;
+    background: white;
+    margin-left: 75px;
+    margin-right: 0px;
+    color: black;
+}
+     
+#menu li{
+    display: inline-block;
+    padding: none;
+    margin: none;
+}
+     
+#menu li a, #menu li span{
+    display: inline-block;
+    padding: 0em 1.5em;
+    text-decoration: none;
+    font-weight: 600;
+    text-transform: uppercase;
+    line-height: 60px;
+}
+     
+#menu li a{
+         
+    color: black;
+}
+     
+#menu li:hover a, #menu li span{
+    background: powderblue;
+    color: aqua;
+    /* border-left: 1px solid #0074D9; */
+    text-decoration: none;
+}
